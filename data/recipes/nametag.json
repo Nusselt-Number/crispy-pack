@@ -1,0 +1,22 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        " I ",
+        "S  ",
+        "PPP"
+    ],
+    "key": {
+        "S": {
+            "item": "minecraft:string"
+        },
+        "P": {
+            "item": "minecraft:paper"
+        },
+        "I": {
+            "item": "minecraft:ink_sac"
+        }
+    },
+    "result": {
+        "item": "minecraft:name_tag"
+    }
+}

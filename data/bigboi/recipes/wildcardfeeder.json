@@ -1,0 +1,23 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        " I ",
+        "IGI",
+        "FIF"
+    ],
+    "key": {
+        "I": {
+            "item": "minecraft:iron_ingot"
+        },
+        "G": {
+            "item": "minecraft:glass_bottle"
+        },
+        "F": {
+            "item": "minecraft:flower"
+        }
+    },
+    "result": {
+        "item": "alexsmobs:hummingbird_feeder",
+        "count": 1
+    }
+}

@@ -1,6 +1,6 @@
 {
   "pack": {
-    "pack_format": 6,
-    "description": "Jack's Crispy Pack for adding craftable saddles, nametags, tridents, etc.  Added support for a wildcard flower recipe for a hummingibrd feeder from Alex's Mobs as well as a chest recipe for BOP wood compatibility with quark."
+    "pack_format": 8,
+    "description": "Jack's Crispy Pack for adding craftable saddles, nametags, tridents, etc.  Updated for minecraft versions 1.18+."
   }
 }

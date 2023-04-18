@@ -6,7 +6,7 @@
         "item": "acorn"
       },
       {
-        "chance": 0.50,
+        "chance": 0.5,
         "condition": "minecraft:random_chance"
       },
       {

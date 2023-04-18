@@ -1,6 +1,6 @@
 {
   "pack": {
-    "pack_format": 8,
+    "pack_format": 10,
     "description": "Jack's Crispy Pack for adding craftable saddles, nametags, tridents, etc.  Updated for minecraft versions 1.18+."
   }
 }
